@@ -6,7 +6,7 @@
 ![alt text](https://img.shields.io/badge/Python-2.7-green.svg)
 
 # Sample Image
-![alt text](https://raw.githubusercontent.com/hatakecnk/hatakecnk.github.io/master/IMG_20191003_210101.jpg)
+![alt text](https://raw.githubusercontent.com/hatakecnk/hatakecnk.github.io/master/IMG_20191004_115847.jpg)
 
 # How To Install
 ```
